@@ -27,5 +27,4 @@
 
 
 
-![Snake animation](https://github.com/Igordevz/Igordevz/blob/output/github-contribution-grid-snake.svg)
 
