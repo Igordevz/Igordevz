@@ -1,46 +1,38 @@
-# Nome da Actions:  
-name: Snake Game
+name: Snake Animation
 
-# Controlador do tempo que sera feito a atualização dos arquivos.
 on:
-  schedule:
-      # Será atualizado a cada 5 horas.
-    - cron: "0 */5 * * *"
+  push:
+    branches:
+      - main
 
-# Permite executar na na lista de Actions (utilizado para testes de build).
-  workflow_dispatch:
-
-# Regras
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
 
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
-
-    # Repositorio que será utilizado para gerar os arquivos.
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Set up Python
+        uses: actions/setup-python@v2
         with:
-          github_user_name: Igordevz #Seu usuario
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          python-version: 3.x
 
-      - run: git status
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install numpy
 
-      # Para as atualizações.
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
+      - name: Run Snake Animation
+        run: |
+          git config --global user.name "Igordevz"
+          git config --global user.email "programadorigor.dev@gmail.com"
+          git clone https://github.com/Igordevz/github-contributions-snake-animation.git
+          cd github-contributions-snake-animation
+          python snake.py --username YourGitHubUsername --exclude weekends --grid
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          # the output branch we mentioned above
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit Changes
+        run: |
+          git add .
+          git commit -m "Update contributions"
+          git push origin main
