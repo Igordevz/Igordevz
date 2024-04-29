@@ -4,7 +4,7 @@
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/euigor_santoss/)
 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Igordevz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Igordevz)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=igordevz&theme=blue-green)](https://github.com/Igordevz)
 
 
 ###  Some Skills
