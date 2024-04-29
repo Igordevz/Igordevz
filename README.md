@@ -24,9 +24,17 @@
 ![blog](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![blog](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white
 )
+![blog](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
+)
+![blog](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+)
+![blog]()
+![blog](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
+)
 ![blog]()
 ![blog]()
 ![blog]()
+
 
 
 
