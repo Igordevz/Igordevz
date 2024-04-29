@@ -31,8 +31,8 @@
 
 
 
-
-### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorDevz&layout=compact)](https://github.com/Igordevz/chatgpt-integration)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igordevz&theme=blue-green
+)
 
 
 
