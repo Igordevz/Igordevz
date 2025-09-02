@@ -16,7 +16,7 @@
 ---
 
 ### 🛠 Tech I Use  
-`TypeScript` · `React` · `Next.js` · `Node.js` · `MongoDB` · `Tailwind` · `AWS` · `Vercel`  
+`TypeScript` · `React` · `Next.js` · `Node.js` · `MongoDB` · `Tailwind` · `AWS` · `Vercel` · `Prisma` · `Cloudfare`
 
 ---
 
