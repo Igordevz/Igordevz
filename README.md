@@ -60,23 +60,7 @@
 
 ---
 
-## 📊 **GitHub Analytics**
 
-<div align="center">
-  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Igordevz&show_icons=true&count_private=true&hide_border=true&title_color=00bfa6&icon_color=00bfa6&text_color=c9d1d9&bg_color=0d1117" alt="Igor Silva github stats" /> 
-
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igordevz&layout=compact&hide_border=true&title_color=00bfa6&text_color=c9d1d9&bg_color=0d1117" />
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Igordevz&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00bfa6&fire=00bfa6&currStreakLabel=00bfa6)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## 🏆 **GitHub Trophies**
 
@@ -88,53 +72,6 @@
 
 ---
 
-## 📈 **Activity Graph**
-
-<div align="center">
-  
-[![Igor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Igordevz&bg_color=0d1117&color=00bfa6&line=00bfa6&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 **Contribution Snake**
-
-<div align="center">
-  
-![Snake animation](https://github.com/Igordevz/Igordevz/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 💭 **Random Dev Quote**
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🎵 **Dev Playlist**
-
-<div align="center">
-
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31k5kWBwObLkNzlbyiI2t1&unique={true})](https://open.spotify.com/user/31k5kWBwObLkNzlbyiI2t1)
-
-*🎧 My coding soundtrack - the beats that fuel my commits!*
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 *"Code is poetry written in logic"* 
-
-<img src="https://komarev.com/ghpvc/?username=igordevz&label=Profile%20views&color=0e75b6&style=flat" alt="igordevz" />
 
 **✨ Thanks for visiting! Let's build something amazing together! ✨**
 
