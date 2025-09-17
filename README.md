@@ -17,7 +17,7 @@
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **React, Node.js, TypeScript**
 - ⚡ Fun fact: **I debug with console.log() and I'm proud of it! haha**
-- 🎯 2024 Goal: **Master microservices architecture**
+- 🎯 2025 Goal: **Master microservices architecture**
 
 <br clear="right"/>
 
